@@ -1,3 +1,5 @@
+# Note: this is a corrected version of https://github.com/dosbox-staging/dosbox-staging/blob/main/resources/mapping-wikipedia.org/CP_1111.TXT which fixes the mapping for the character at 0xb0.
+
 0x80		#UNDEFINED
 0x81		#UNDEFINED
 0x82		#UNDEFINED
