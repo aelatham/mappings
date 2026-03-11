@@ -1,4 +1,4 @@
-# Note: this is a corrected version of https://github.com/dosbox-staging/dosbox-staging/blob/main/resources/mapping-wikipedia.org/CP_1111.TXT which fixes the mapping for the character at 0xb0.
+# Note: this fixes the mapping for the character at 0xb0 compared to the dosbox-staging mapping which is actually one for the original code page 912.
 
 0x80		#UNDEFINED
 0x81		#UNDEFINED
