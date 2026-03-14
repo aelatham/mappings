@@ -1,5 +1,5 @@
-#Correction from https://github.com/dosbox-staging/dosbox-staging/blob/main/resources/mapping/MAIN.TXT
-(remainder on https://github.com/dosbox-staging/dosbox-staging/blob/main/resources/mapping-unicode.org/CP_850.TXT) is
+#Corrections from https://github.com/dosbox-staging/dosbox-staging/blob/main/resources/mapping/MAIN.TXT
+(remainder on https://github.com/dosbox-staging/dosbox-staging/blob/main/resources/mapping-unicode.org/CP_850.TXT)
 
 0xfa 0x0256        #LATIN SMALL LETTER D WITH TAIL
 0xfb 0x0189        #LATIN CAPITAL LETTER AFRICAN D
