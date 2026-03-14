@@ -1,4 +1,4 @@
-#Note: Reconstructed by me based on Code page 850 mapping. Usually Code page 850 has the same lower half as either form of 437.
+#Note: Created by me based on Code page 850 mapping. Usually Code page 850 has the same lower half as either form of 437.
 
 0x00	0x0000	#NULL
 0x01	0x263a	#WHITE SMILING FACE
