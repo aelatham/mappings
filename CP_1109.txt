@@ -1,4 +1,4 @@
-# This code page is made by me
+##Note: Created by me.
 
 0x00	0x0000	#NULL
 0x01	0x0001	#START OF HEADING
