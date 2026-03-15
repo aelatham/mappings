@@ -1,0 +1,14 @@
+#Corrections from https://github.com/dosbox-staging/dosbox-staging/blob/main/resources/
+
+Code page 30000 two names should be:
+0x93	0x1e11       #LATIN SMALL LETTER D WITH CEDILLA
+0x9c	0x1e10       #LATIN CAPITAL LETTER D WITH CEDILLA
+
+Code page 30009:
+0x92 0x018f       #LATIN CAPITAL LETTER SCHWA
+0x93 0x0275       #LATIN SMALL LETTER BARRED O
+0xe2 0x019f       #LATIN CAPITAL LETTER O WITH MIDDLE TILDE
+
+Code page 30025:
+0xfa 0x0256        #LATIN SMALL LETTER D WITH TAIL
+0xfb 0x0189        #LATIN CAPITAL LETTER AFRICAN D
