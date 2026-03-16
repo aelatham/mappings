@@ -1,4 +1,4 @@
-#Note: This mapping table is made by me. 0xE0 is listed as mapped to 0x00BC, VULGAR FRACTION ONE QUARTER in IBM's PDF, but I think that's an error.
+#Note: This mapping table is made by me.
 
 0x00	0x0000	#NULL
 0x01	0x0001	#START OF HEADING
