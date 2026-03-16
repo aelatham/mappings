@@ -1,8 +1,8 @@
 #Corrections from https://github.com/dosbox-staging/dosbox-staging/blob/main/resources/
 
 Code page 30000 two names should be:
-0x93	0x1e11       #LATIN SMALL LETTER D WITH CEDILLA
-0x9c	0x1e10       #LATIN CAPITAL LETTER D WITH CEDILLA
+0x93 0x1e11       #LATIN SMALL LETTER D WITH CEDILLA
+0x9c 0x1e10       #LATIN CAPITAL LETTER D WITH CEDILLA
 
 Code page 30003:
 0x9c 0x0294        #LATIN LETTER GLOTTAL STOP
