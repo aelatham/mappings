@@ -1,4 +1,4 @@
-#Credit: Unicode.org
+#Credit: Unicode.org. For older versions, see Code page 1070 and Code page 37 old.
 
 0x00	0x0000	#NULL
 0x01	0x0001	#START OF HEADING
