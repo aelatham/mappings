@@ -1,4 +1,3 @@
-
 #Note: This mapping table is made by me. 
 
 0x00	0x0000	#NULL
