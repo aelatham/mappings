@@ -1,4 +1,4 @@
-#Note: This mapping table is made by me. This is the original version, of Code page 297.
+#Note: This mapping table is made by me. This is the original version of Code page 297.
 
 0x00	0x0000	#NULL
 0x01	0x0001	#START OF HEADING
