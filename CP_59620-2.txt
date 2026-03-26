@@ -1,5 +1,5 @@
 # CER-GS- deprecated August 1998 when Extended Latin-8 was updated.
-# characters 0x00-0x7f as in code page 437- but 0x26 maps to 0x0026 or 0x204a.
+# characters 0x00-0x7f as in code page 367- but 0x26 maps to 0x0026 or 0x204a.
 
 
 0x80		#UNDEFINED
