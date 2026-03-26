@@ -1,6 +1,7 @@
 # Note: this fixes the mapping for the character at 0xb0 compared to the dosbox-staging mapping which is actually one for the original code page 912.
 
 # characters 0x00-0x7f as in code page 367
+
 0x80		#UNDEFINED
 0x81		#UNDEFINED
 0x82		#UNDEFINED
