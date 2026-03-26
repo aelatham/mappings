@@ -1,5 +1,5 @@
 # Extended Latin 8
-# characters 0x00-0x7f as in code page 437- but 0x26 mapped to 0x0026 or 0x204a prior to the August 1998 update which disunified them.
+# characters 0x00-0x7f as in code page 367- but 0x26 mapped to 0x0026 or 0x204a prior to the August 1998 update which disunified them.
 
 
 0x80	0x20ac	#EURO SIGN- was empty before August 1998
