@@ -1,4 +1,4 @@
-#Note: This mapping table is made by me.
+#Note: This mapping table is made by me. Three PUA mappings are included which form a set for a large circle.
 
 0x00	0x0000	#NULL
 0x01	0x0001	#START OF HEADING
