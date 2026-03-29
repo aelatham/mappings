@@ -1,4 +1,4 @@
-#Note: This mapping table is made by me. Not everything is in Unicode- one-two PUA mappings included.
+#Note: This mapping table is made by me. Not everything is in Unicode- one to two PUA mappings included.
 
 0x00	0x0000	#NULL
 0x01	0x0001	#START OF HEADING
