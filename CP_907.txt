@@ -1,4 +1,4 @@
-#This is an edit of Unicode's mapping, showing the version without most controls.
+#Note: This mapping table is made by me. Not everything is in Unicode- PUA mappings included.
 
 0x00	0x0000	#NULL
 0x01	0x263a	#WHITE SMILING FACE
