@@ -1,4 +1,4 @@
-#Supplement to Code page 919 at https://github.com/dosbox-staging/dosbox-staging/blob/main/resources/mapping-wikipedia.org/CP_919.TXT
+#Supplement to Code page 919 (mapping at https://github.com/dosbox-staging/dosbox-staging/blob/main/resources/mapping-wikipedia.org/CP_919.TXT)
 #Characters at 0x43 and 0x63 and their Unicode mappings are supposed to be LATIN LETTER A WITH RING ABOVE AND MACRON, but the error was caught too late.
 
 0x20		0x00b4  #ACUTE ACCENT
