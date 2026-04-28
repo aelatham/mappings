@@ -1,4 +1,4 @@
-#Note: This mapping table is made by me. 0xE1 was previously empty.
+#Note: This mapping table is made by me. Code point 0xE1 was previously empty.
 
 0x00	0x0000	#NULL
 0x01	0x0001	#START OF HEADING
