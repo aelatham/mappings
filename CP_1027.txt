@@ -1,4 +1,4 @@
-#Note: This mapping table is made by me.
+#Note: This mapping table is made by me. Code point 0xE1 was previously empty.
 
 0x00	0x0000	#NULL
 0x01	0x0001	#START OF HEADING
@@ -225,7 +225,7 @@
 0xDE	    #UNDEFINED
 0xDF	    #UNDEFINED
 0xE0	0x005C	#REVERSE SOLIDUS
-0xE1	    #UNDEFINED
+0xE1	0x20AC	#EURO SIGN
 0xE2	0x0053	#LATIN CAPITAL LETTER S
 0xE3	0x0054	#LATIN CAPITAL LETTER T
 0xE4	0x0055	#LATIN CAPITAL LETTER U
