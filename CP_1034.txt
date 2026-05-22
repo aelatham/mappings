@@ -1,5 +1,4 @@
-#Note: Created by me.
-
+#Note: This mapping table is made by me.
 
 0x20	0x0020	#SPACE
 0x21		#UNDEFINED
@@ -33,3 +32,4 @@
 0x3d		#UNDEFINED
 0x3e		#UNDEFINED
 0x3f		#UNDEFINED
+0x40	0x238a	#CIRCLED TRIANGLE DOWN
