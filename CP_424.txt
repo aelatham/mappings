@@ -1,4 +1,4 @@
-#Note: This mapping table is made by me. For the original version, see Code page 1083, and for the version with uppercase Hebrew (not in Unicode), see Code page 1082.
+#Note: This mapping table is made by me. For the original version, see Code page 1083, and for the version with uppercase Hebrew (not in Unicode), see Code page 1082. Unicode's mapping is slightly different, and I missed it initially.
 
 0x00	0x0000	#NULL
 0x01	0x0001	#START OF HEADING
