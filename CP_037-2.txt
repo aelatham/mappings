@@ -1,4 +1,4 @@
-#Note: This mapping table is made by me. Not an official IBM code page, but used by APL.
+#Note: This mapping table is made by me. A hybrid of code page 37 (4 swaps)/1047 (2 swaps) used by APL.
 
 0x00	0x0000	#NULL
 0x01	0x0001	#START OF HEADING
