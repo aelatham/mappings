@@ -1,4 +1,4 @@
-#This version is also known as Code Page 4370. For older versions, see Code page 1072 and Code page 274 old.
+#This version is also known as Code Page 4370.
 
 0x00	0x0000	#NULL
 0x01	0x0001	#START OF HEADING
