@@ -1,4 +1,4 @@
-#Note: This mapping table is made by me.
+#Note: This mapping table is made by me.  For older versions, see Code page 1081 and Code page 297 old.
 
 0x00	0x0000	#NULL
 0x01	0x0001	#START OF HEADING
@@ -159,7 +159,7 @@
 0x9C	0x00E6	#LATIN SMALL LIGATURE AE
 0x9D	0x00B8	#CEDILLA
 0x9E	0x00C6	#LATIN CAPITAL LIGATURE AE
-0x9F	0x20AC	#EURO SIGN
+0x9F	0x00A4	#CURRENCY SIGN
 0xA0	0x0060	#GRAVE ACCENT
 0xA1	0x00A8	#DIAERESIS
 0xA2	0x0073	#LATIN SMALL LETTER S
