@@ -1,7 +1,7 @@
 #Note: This mapping table is made by me. This modification covers Latin-1, DEC-MCS, Pan-European font setup characters, and DEC-NL.
 #Turkish coverage was considered (5 characters)
-#Other possibilities considered: Hungarian (4), Greenlandic (5), Romanian (6, shares 2 with Turkish), Maltese (8)
-#Difficult: Croatian (10), Saami (12, shares 6 with Croatian), Esperanto (12), Polish (14); Estonian/Finnish (4, shares with Saami/Croatian)
+#Other possibilities considered: Hungarian (4), Greenlandic (5), Romanian (6, shares 2 with Turkish), Maltese (8); Estonian/Finnish (4, shares with Saami/Croatian)
+#Difficult: Croatian (10), Saami (12, shares 6 with Croatian), Esperanto (12), Polish (14)
 #Impossible as they require more than 16: Czech, Slovak, Lithuanian, Latvian
 
 0x80	0x00c4	#LATIN CAPITAL LETTER A WITH DIAERESIS
