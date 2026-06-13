@@ -2,7 +2,7 @@
 #Turkish coverage was considered (5 characters)
 #Other possibilities considered: Hungarian (4), Greenlandic (old) (5), Romanian (6, shares 2 with Turkish), Maltese (8)
 #Also: Estonian/Finnish (4, shares with Saami/Croatian)
-#Difficult: Croatian (10), Saami (12, shares 6 with Croatian), Esperanto (12), Polish (14)
+#Difficult: Croatian (10), Saami (12, shares 8 with Croatian), Esperanto (12), Polish (14)
 #Impossible as they require more than 16: Czech, Slovak, Lithuanian, Latvian
 
 0x80	0x00c4	#LATIN CAPITAL LETTER A WITH DIAERESIS
