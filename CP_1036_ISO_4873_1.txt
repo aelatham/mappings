@@ -1,4 +1,4 @@
-#Note: G1 (CP819/CP920) and G2 (CP912) can be reversed.
+#Note: This is for G1 as CP819/CP920 and G2 as CP912.
 
 0x80		#UNDEFINED
 0x81		#UNDEFINED
