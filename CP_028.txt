@@ -1,0 +1,1 @@
+#This code page is similar to Code page 29, but has characters similar to code page 18. Layout unknown.
