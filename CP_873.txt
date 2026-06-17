@@ -1,4 +1,4 @@
-#Note: This mapping table is made by me. Code page number inferred- 905 moves the Turkish characters into the ASCII section.
+#Note: This mapping table is made by me. Code page number deduced by GCSGID number- 905 moves the Turkish characters into the ASCII section.
 
 0x00	0x0000	#NULL
 0x01	0x0001	#START OF HEADING
