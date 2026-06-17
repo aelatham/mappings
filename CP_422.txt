@@ -1,0 +1,1 @@
+#This Arabic EBCDIC code page has been lost, but contains GCSGID 239, a subset of GCSGID 1461.
