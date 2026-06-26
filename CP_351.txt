@@ -1,5 +1,5 @@
 #Note: This mapping table is made by me. Not everything is in Unicode- PUA mappings included.
-#Epsilon with underbar inclusion suspected- not on any online sources.
+#Epsilon with underbar inclusion assumed (only missing character from 293/310).
 
 0x00	0x0000	#NULL
 0x01	    #UNDEFINED
