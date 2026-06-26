@@ -1,4 +1,5 @@
 #Note: This mapping table is made by me. Not everything is in Unicode- PUA mappings included.
+#Epsilon with underbar inclusion suspected- not on any online sources.
 
 0x00	0x0000	#NULL
 0x01	    #UNDEFINED
@@ -6,7 +7,7 @@
 0x03	    #UNDEFINED
 0x04	0xF885	#MATHEMATICAL BOLD LEFT CURLY BRACKET
 0x05	0x0009	#HORIZONTAL TABULATION
-0x06	    #UNDEFINED
+0x06	0x2377	#APL FUNCTIONAL SYMBOL EPSILON UNDERBAR
 0x07	    #UNDEFINED
 0x08	0x2580	#UPPER HALF BLOCK
 0x09	    #UNDEFINED
