@@ -1,2 +1,2 @@
 #This code page existed based on GCSGID evidence (#75), but has been lost.
-#It's unknown was country it is based on- perhaps a smaller Iceland code page?
+#It's unknown was country it is based on- perhaps a smaller Iceland code page with the apostrophe?
