@@ -1,1 +1,2 @@
 #This Arabic EBCDIC code page has been lost, but contains GCSGID 239, a subset of GCSGID 1461.
+#I suspect this was a 7-bit Arabic code page.
