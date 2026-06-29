@@ -1,1 +1,1 @@
-#This code page existed based on GCSGID evidence (#75), but has been lost- 27 is GCSGID #74.
+#This code page existed based on GCSGID evidence (#75), but has been lost.
