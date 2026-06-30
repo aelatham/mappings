@@ -1,2 +1,2 @@
-#This code page existed based on GCSGID evidence (#75), but has been lost.
+#This code page existed based on GCSGID evidence (#76), but has been lost.
 #I suspect this was a smaller Iceland code page.
