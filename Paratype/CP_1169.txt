@@ -1,4 +1,4 @@
-#Based on CP 1251 mapping.
+#Note: This mapping was made by me from archive on paratype.com.
 
 0x00	0x0000	#NULL
 0x01	0x0001	#START OF HEADING
