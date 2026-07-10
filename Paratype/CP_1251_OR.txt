@@ -1,4 +1,4 @@
-#Note: This mapping was made by me from archive on paratype.com.
+#Note: This Old Russian mapping was made by me from the paratype.com archive.
 
 0x00	0x0000	#NULL
 0x01	0x0001	#START OF HEADING
